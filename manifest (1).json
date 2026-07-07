@@ -1,0 +1,13 @@
+{
+  "name": "Lasers Committee Portal",
+  "short_name": "Lasers Committee",
+  "description": "Swadlincote Lasers Basketball Club — private committee portal",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#241533",
+  "theme_color": "#241533",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
